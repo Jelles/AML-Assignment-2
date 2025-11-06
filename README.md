@@ -43,10 +43,10 @@ uv --version
 
 ## Project Setup
 
-### 1. Clone or Navigate to the Project
+### 1. Clone the Project
 
-```powershell
-cd "c:\Users\Jelles\Documents\School\JADS\Jaar 1\JADS-code-jaar1\AML\Assignment 2"
+```
+git clone git@github.com:Jelles/AML-Assignment-2.git
 ```
 
 ### 2. Sync Dependencies
